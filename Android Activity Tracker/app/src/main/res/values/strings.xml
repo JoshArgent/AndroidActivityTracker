@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activity Tracker</string>
+
+    <string-array name="activity_types">
+        <item>Running</item>
+        <item>Walking</item>
+        <item>Cycling</item>
+        <item>Rowing</item>
+    </string-array>
+
+</resources>
